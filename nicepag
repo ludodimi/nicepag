@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+  <title>nicepage</title>
+</head>
+<div style="background-color:#f2f2f2; height:70px; width: 1380px; text-align: center">
+  <img src="https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2020/05/nicepage-alternative-logo.webp" width="130px">
+  <img src="https://csite.nicepage.com/Images/Site/responsive-desktop.png" align="center">
+  <img src="https://csite.nicepage.com/Images/Site/responsive-laptop.png">
+  <img src="https://csite.nicepage.com/Images/Site/responsive-tablet.png">
+  <img src="https://csite.nicepage.com/Images/Site/responsive-phone-horizontal.png">
+  <img="https: //csite.nicepage.com/Images/Site/responsive-phone.png">
+</div>
+
+<body>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-2 p-3"></div>
+      <div class="col-2 p-3">
+        <img src="https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/cddf7b8eabf65af48ae0527d/6921619700_1_1_16.jpg" width="180" alt="borsa1">
+      </div>
+      <br></br>
+      <div class="col-3 p-3 mt-5">
+        <p style="font-size:14pt">Sample Headline</p>
+
+        <p style="color:grey;"><i>Sample text. Click to select the text box. Click again or double click to start editing the text.</i></p>
+        <p style="font-size:22pt"><b>$200</b></p>
+
+      </div>
+
+      <div class="col-7 pt-2"></div>
+      <div class="col-3 pt-2">
+        <h1 style="font-size: 60pt; font-family:Bodoni;"><b>SUMMER</b></h1>
+        <p style="font-size:18pt; font-family:helvetica;">Outfit Inspiration</p>
+        <br>
+        <p><i>New season, new wardrobe. As the temperatures continue to rise, have your style follow suit and revamp your racks with fresh, elevated summer looks.</i></p>
+        <button type="button" class="btn-dark" style="font-family:bebas neue; width: 150px; height:30px">READ MORE</button>
+      </div>
+    </div>
+
+    <div>
+      <div class="row">
+        <div class="col-2 pt-1"></div>
+        <div class="col-2 pt-1">
+          <img src="https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/475fc6a7a95d5ccd9b12e945/6903603702_1_1_16.jpg" width="180" alt="borsa2">
+        </div>
+
+        <div class="col-3 p-3 mt-4">
+          <p style="font-size:14pt">Sample Headline</p>
+          <p style="color:grey;"><i>Sample text. Click to select the text box. Click again or double click to start editing the text.</i></p>
+          <p style="font-size:22pt"><b>$300</b></p>
+        </div>
+
+        <div class="col-5 p-3"></div>
+      </div>
+
+      <div class="row">
+        <div class="col-2 p-3"></div>
+        <div class="col-2 p-3">
+          <img src="https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/6a2af5f349d85d83bebfe88d/6903603800_1_1_16.jpg" width="180" alt="borsa3">
+        </div>
+
+        <br></br>
+        <div class="col-3 p-3 mt-4">
+          <p style="font-size:14pt">Sample Headline</p>
+          <p style="color:grey:"><i>Sample text. Click to select the text box. Click again or double click to start editing the text.</i></p>
+          <p style="font-size:22pt"><b>$250</b></p>
+        </div>
+
+        <div class="col-5 p-3"></div>
+      </div>
+      <br></br>
+      <div style="background-color:black; height:100px; width: 1380px; text-align: center; color:white;">Template created with Nicepage.</div>
+    </div>
+  </div>
+
+</body>
+
+</html>
